@@ -5,4 +5,3 @@ deps/deps.jl
 *.xml
 .idea/open-data-workshop.iml
 .idea/vcs.xml
-*.ipynb
